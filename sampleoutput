@@ -1,0 +1,61 @@
+DNA Analysis -- Started on <built-in method now of type object at 0xb6190f28>
+
+========================================
+0:00:02.210 - Start Program
+========================================
+========================================
+0:00:40.910 - Feedback:Genome Length, without N: 34893780
+========================================
+========================================
+0:00:40.930 - Feedback:RPiSlave1, rank 1, starting sequence 8723445: CTGGGGGCACACAGA
+========================================
+========================================
+0:00:41.640 - Feedback:RPiSlave2, rank 3, starting sequence 26170335: TAATTCAACAGATCC
+========================================
+========================================
+0:00:54.020 - Feedback:RPiSlave3, rank 2, starting sequence 17446890: TATAAATGAGAAAAA
+========================================
+========================================
+0:01:24.250 - Feedback:*** Match Found -- Name: RPiSlave1, Rank: 1 
+Pattern # CTGGGGGCACACAGA 8723445
+ Number: 1, Found at index 6688850 to index 6688865 ***
+========================================
+========================================
+0:03:58.930 - Feedback:RPiSlave2, rank 3, starting sequence 26170336: AATTCAACAGATCCC
+========================================
+========================================
+0:04:16.040 - Feedback:RPiSlave1, rank 1, starting sequence 8723446: TGGGGGCACACAGAT
+========================================
+========================================
+0:04:54.540 - Feedback:RPiSlave3, rank 2, starting sequence 17446891: ATAAATGAGAAAAAG
+========================================
+========================================
+0:04:58.810 - Feedback:*** Match Found -- Name: RPiSlave1, Rank: 1 
+Pattern # TGGGGGCACACAGAT 8723446
+ Number: 2, Found at index 6688851 to index 6688866 ***
+========================================
+========================================
+0:07:18.960 - Feedback:RPiSlave2, rank 3, starting sequence 26170337: ATTCAACAGATCCCT
+========================================
+========================================
+0:07:58.580 - Feedback:RPiSlave1, rank 1, starting sequence 8723447: GGGGGCACACAGATC
+========================================
+========================================
+0:08:41.169 - Feedback:*** Match Found -- Name: RPiSlave1, Rank: 1 
+Pattern # GGGGGCACACAGATC 8723447
+ Number: 3, Found at index 6688852 to index 6688867 ***
+========================================
+========================================
+0:08:55.030 - Feedback:RPiSlave3, rank 2, starting sequence 17446892: TAAATGAGAAAAAGT
+========================================
+========================================
+0:10:38.770 - Feedback:RPiSlave2, rank 3, starting sequence 26170338: TTCAACAGATCCCTC
+========================================
+========================================
+0:11:41.350 - Feedback:RPiSlave1, rank 1, starting sequence 8723448: GGGGCACACAGATCA
+========================================
+========================================
+0:12:24.440 - Feedback:*** Match Found -- Name: RPiSlave1, Rank: 1 
+Pattern # GGGGCACACAGATCA 8723448
+ Number: 4, Found at index 6688853 to index 6688868 ***
+========================================

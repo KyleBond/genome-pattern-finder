@@ -1,0 +1,5 @@
+cpuName,rank,dnaPattern,pattern#,match#,startIndex,endIndex
+Match::name:RPiSlave1,rank:1,currentPattern:CTGGGGGCACACAGA,patternStartIndex8723445,matchNumber:1,matchStartIndex:6688850,matchEndIndex:6688865
+Match::name:RPiSlave1,rank:1,currentPattern:TGGGGGCACACAGAT,patternStartIndex8723446,matchNumber:2,matchStartIndex:6688851,matchEndIndex:6688866
+Match::name:RPiSlave1,rank:1,currentPattern:GGGGGCACACAGATC,patternStartIndex8723447,matchNumber:3,matchStartIndex:6688852,matchEndIndex:6688867
+Match::name:RPiSlave1,rank:1,currentPattern:GGGGCACACAGATCA,patternStartIndex8723448,matchNumber:4,matchStartIndex:6688853,matchEndIndex:6688868
